@@ -1,0 +1,10 @@
+data/*
+fastai/models/*
+models/*
+tf-obj/ssd_mobilenet_v1_coco_2017_11_17/*
+tf-obj/data/*
+tf-obj/old_data/*
+tf-obj/frcbox_train.record
+tf-obj/output_inference_graph.pb/*
+talkingdata/submits/*
+*/submits/*

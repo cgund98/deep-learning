@@ -1,0 +1,12 @@
+1. Vast majority of deal probabilities are <.2
+2. Ad regions are fairly equally distributed
+3. Certain ad titles show up often
+4. Majority (71%) of user_types are private > company > shop (3 types)
+4. Similar to ad titles, there are common key words in description
+5. Small number (70k) of users are shared between test and train
+6. Small number of ad titles (64k) are directly shared between test and train
+7. Large portion of seq_number (2/3 of test) are shared between test and train
+8. There is trend of ad price over course of a month
+9. Train data takes place from Mar. 15 to Apr. 7
+10. Test data takes place from Apr 12-18
+11. Very few of train data takes place after Mar. 28
